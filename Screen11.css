@@ -1,0 +1,42 @@
+*{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#laregrec{
+    width: 2700px;
+    height: 1800px;
+   
+    background: rgba(41,46,85,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#pic{
+    position: absolute;
+    top: 150px;
+    width: 460px;
+    height: 410px;
+    left: 50px;
+}
+#heading
+{
+    color: white;
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 159px;
+    left: 700px;
+}
+#pic2{
+    position: absolute;
+    top: 300px;
+    left: 750px;
+    width: 230px;
+    height: 100px;
+}
+#pic3{
+    position: absolute;
+    top: 400px;
+    left: 720px;
+    width: 300px;
+    height: 150px;
+}
